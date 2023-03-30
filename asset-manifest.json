@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/cleaner/static/css/main.073c9b0a.css",
-    "main.js": "/cleaner/static/js/main.724dee37.js",
+    "main.css": "/cleaner/static/css/main.964af7fc.css",
+    "main.js": "/cleaner/static/js/main.f47e8659.js",
     "static/js/787.57c41ea4.chunk.js": "/cleaner/static/js/787.57c41ea4.chunk.js",
-    "static/media/logo.svg": "/cleaner/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/heroimg.png": "/cleaner/static/media/heroimg.c5dbd81a9993b1a4488d.png",
+    "static/media/pressure_wash_guy.jpg": "/cleaner/static/media/pressure_wash_guy.287304298ccbad65c85f.jpg",
+    "static/media/about-us-page.png": "/cleaner/static/media/about-us-page.1e8eba0d9bf77698aaef.png",
     "index.html": "/cleaner/index.html",
-    "main.073c9b0a.css.map": "/cleaner/static/css/main.073c9b0a.css.map",
-    "main.724dee37.js.map": "/cleaner/static/js/main.724dee37.js.map",
+    "main.964af7fc.css.map": "/cleaner/static/css/main.964af7fc.css.map",
+    "main.f47e8659.js.map": "/cleaner/static/js/main.f47e8659.js.map",
     "787.57c41ea4.chunk.js.map": "/cleaner/static/js/787.57c41ea4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.724dee37.js"
+    "static/css/main.964af7fc.css",
+    "static/js/main.f47e8659.js"
   ]
 }
