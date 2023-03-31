@@ -1,10 +1,17 @@
 {
   "files": {
     "main.css": "/cleaner/static/css/main.31681802.css",
-    "main.js": "/cleaner/static/js/main.3dd63a70.js",
+    "main.js": "/cleaner/static/js/main.0aaf69e5.js",
     "static/js/787.57c41ea4.chunk.js": "/cleaner/static/js/787.57c41ea4.chunk.js",
+    "static/media/review-vol-rec.webp": "/cleaner/static/media/review-vol-rec.2d8d12ff0b8586df02a4.webp",
     "static/media/heroimg.webp": "/cleaner/static/media/heroimg.4f469740406a19616534.webp",
+    "static/media/support-img.webp": "/cleaner/static/media/support-img.c1c3c66a26c21e79c413.webp",
+    "static/media/office_clean.webp": "/cleaner/static/media/office_clean.4475ee91e3e8354cd595.webp",
     "static/media/pressure_wash_guy.webp": "/cleaner/static/media/pressure_wash_guy.8e8e94b7085c21f5c9e4.webp",
+    "static/media/spring-cleaning.webp": "/cleaner/static/media/spring-cleaning.0ae4eca48ef8881edc4c.webp",
+    "static/media/window_cleanerr.webp": "/cleaner/static/media/window_cleanerr.2ef4e1c56f4813f8ed9a.webp",
+    "static/media/lady_cleaner.webp": "/cleaner/static/media/lady_cleaner.c23fb9e8e22d367d3741.webp",
+    "static/media/vaccum_guy.webp": "/cleaner/static/media/vaccum_guy.3f5f7f5bf7a84a755066.webp",
     "static/media/customer-satisfaction.webp": "/cleaner/static/media/customer-satisfaction.0119cff4b78e8fd3a7e4.webp",
     "static/media/about-us-page.webp": "/cleaner/static/media/about-us-page.30d9fbeafcdb3bee40b4.webp",
     "static/media/Service.webp": "/cleaner/static/media/Service.24e55bb0eba0b921988a.webp",
@@ -13,11 +20,11 @@
     "static/media/Customer.webp": "/cleaner/static/media/Customer.448193234dd687a13710.webp",
     "index.html": "/cleaner/index.html",
     "main.31681802.css.map": "/cleaner/static/css/main.31681802.css.map",
-    "main.3dd63a70.js.map": "/cleaner/static/js/main.3dd63a70.js.map",
+    "main.0aaf69e5.js.map": "/cleaner/static/js/main.0aaf69e5.js.map",
     "787.57c41ea4.chunk.js.map": "/cleaner/static/js/787.57c41ea4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31681802.css",
-    "static/js/main.3dd63a70.js"
+    "static/js/main.0aaf69e5.js"
   ]
 }
